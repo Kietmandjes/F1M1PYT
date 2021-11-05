@@ -1,4 +1,4 @@
-print("Hallo ik ben Kiet.?")
+print("Hallo ik ben Kiet?")
 naam = input("Wat is jou naam?")
 print("Hallo " + naam + " Leuk om jou te ontmoeten")
 print("Ik ben 16 jaar oud")
